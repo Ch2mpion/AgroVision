@@ -45,7 +45,7 @@ Manual crop inspection is often slow and inaccurate. **AgroVision** solves this 
 * **Ahmed Hassan Saleh**
 
 **Supervised by:**
-* **Dr. Mohamed Said**
+* **Prof. Mohamed Said**
 
 ---
 
